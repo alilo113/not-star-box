@@ -1,0 +1,32 @@
+body{
+    background-color: #242020;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    text-align: center;
+}
+
+button{
+    color: white;
+    background-color: green;
+    width: 10%;
+    height: 10%;
+    border-radius: 15px;
+}
+
+li{
+    color: white;
+    padding: 10px 0px 10px;
+    list-style: none;
+    margin-top: 10%;
+}
+
+
+li:hover{
+    background-color: brown;
+    padding: 10px 0px 10px;
+}
+
+h1{
+    color: green;
+    margin-top: 10px;
+}
